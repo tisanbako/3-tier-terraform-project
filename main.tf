@@ -1,4 +1,4 @@
-# configure aws provider.
+# configure aws provider
 
 provider "aws" {
     region = var.region
