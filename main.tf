@@ -6,7 +6,7 @@ provider "aws" {
   
 }
 
-#Create vpc
+#Create vpc.
 
 module "vpc" {
   source = "./modules/vpc"
